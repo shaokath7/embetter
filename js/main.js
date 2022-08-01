@@ -72,9 +72,9 @@ $(document).ready(function(){
         nav:true,
         responsive:{
             0:{
-                items:2
+                items:1
             },
-            400:{
+            540:{
                 items:2
             },
             620:{
