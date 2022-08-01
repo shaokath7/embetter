@@ -415,12 +415,12 @@ h3 {
 
 #main .srch-form .srch-text {
     display: inline-block;
-    flex: 1;
+    flex: 0 0 auto;
     border: none;
     outline: none;
     background: #fff;
-    padding-left: 5rem;
-    padding-right: 12rem;
+    padding-left: 3.5rem;
+    padding-right: 0rem;
     font-size: 1.4rem;
     font-weight: 400;
     line-height: 2.4rem;
