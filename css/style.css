@@ -347,7 +347,7 @@ h3 {
 #main .m-hdr-inner {
     min-height: 56.9rem;
     /* background: #000; */
-    background-image: url(../img/h-img-all-min.png);
+    background-image: (../img/h-img-all-min.png);
     background-repeat: no-repeat;
     background-size: auto;
     background-position: 87% center;
