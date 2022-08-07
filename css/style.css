@@ -986,7 +986,7 @@ h3 {
     align-items: center;
 }
 
-#main .upc-area .h-detail p.h5 {
+#main .upc-area .h-detail .h5 {
     margin-left: 1rem;
     font-size: 1.4rem;
     font-weight: 400;
